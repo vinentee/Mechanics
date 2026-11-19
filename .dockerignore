@@ -1,0 +1,13 @@
+.git
+.local
+.env
+.env.*
+node_modules
+dist
+dist-server
+playwright-report
+test-results
+coverage
+launch
+*.log
+.DS_Store
